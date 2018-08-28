@@ -15,6 +15,8 @@ namespace TestHellowWord
             SetContentView(Resource.Layout.Main);
 			
 			// Set our view from the "main" layout resource
+			
+			// Hello word
         }
     }
 }
